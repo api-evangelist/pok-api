@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://pokeapi.co
 common:
+  - type: DomainSecurity
+    url: security/pok-api-domain-security.yml
   - type: Website
     url: https://pokeapi.co
   - type: PublicAPIsListing
